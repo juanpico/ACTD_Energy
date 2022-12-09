@@ -11,6 +11,11 @@ Este proyecto tiene como objetivo desarrollar un proyecto de analítica de datos
 
 Concretamente, se decidió utilizar los datos de la carga total en Austria en MW según lo publicado en ENTSO-E Transparency Platform. Estos datos fueron obtenidos de: [Open Power System Data](https://data.open-power-system-data.org/time_series/2020-10-06)
 
+La estructura del proyecto se divide en 3 componentes:
+1. Análisis de datos: El análisis realizado se encuentra en el notebook "ETL hourly.ipynb".
+2. Modelo: La estimación del modelo SARIMA utilizado para modelar la serie de tiempo se realiza en el archivo "modelo.ipynb"
+3. Dashboard: Se realizó un dashboard como herramienta de apoyo a la decisión mediante Dash. Esta herramienta fue desplegada en una maquina virtual. El código y los soportes de la herramienta se encuentran en la carpeta "Dashboard".
+
 ## Construido con :wrench: :hammer:
 * [Python](https://www.python.org)
 * [Dash](https://dash.plotly.com)
