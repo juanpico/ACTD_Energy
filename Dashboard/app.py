@@ -36,9 +36,9 @@ def load_data():
 
     # Credenciales para acceder a los datos en el bucket de AWS
     REGION = 'us-east-1'
-    ACCESS_KEY_ID = 'AKIASGHVVXZRRSHOMVMH'
-    SECRET_ACCESS_KEY = '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'
-    BUCKET_NAME = 'equipomodelos-proyectoenergia'
+    ACCESS_KEY_ID = 'ACCESS_KEY_ID'
+    SECRET_ACCESS_KEY = 'SECRET_ACCESS_KEY'
+    BUCKET_NAME = 'BUCKET_NAME'
     KEY = 'datos_forecast.csv'
 
     # Cargar datos
