@@ -21,7 +21,7 @@ La estructura del proyecto se divide en 3 componentes:
 * [Dash](https://dash.plotly.com)
 * [statsmodels](https://www.statsmodels.org/stable/index.html)
 
-## Previsualización del Dashboard
+## Previsualización del Dashboard :crystal_ball:
 
 <img width="1431" alt="image" src="https://user-images.githubusercontent.com/75444742/230502417-1516b48b-057a-4158-bcb0-27e2f4bff516.png">
 
