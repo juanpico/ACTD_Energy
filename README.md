@@ -30,5 +30,3 @@ La estructura del proyecto se divide en 3 componentes:
 * Mauricio Ricardo Delgado (<mr.delgado@uniandes.edu.co>)
 * Juan Camilo Pico (<jc.picog@uniandes.edu.co>)
 
-## Disclaimer
-Este proyecto esta en sus primeras etapas de desarrollo. Todos los errores son atribuites a los autores. Apreciamos cualquier aporte para mejorar el contenido.
